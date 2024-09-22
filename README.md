@@ -8,7 +8,7 @@
 
 ## Current projects
 
- * Hello World: Java console application]{git@github.com/ddc-java-19/andriod-hello-world-Mpage13.git}
+ * Hello World: Java console application]({git@github.com/ddc-java-19/andriod-hello-world-Mpage13.git})
       
  * Hello World: Android app
 
