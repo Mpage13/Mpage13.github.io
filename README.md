@@ -14,4 +14,4 @@
 
 ## Links
 
- * [GitHub]({https://github.com/Mpage13})
+ * [GitHub]{https://github.com/Mpage13}
